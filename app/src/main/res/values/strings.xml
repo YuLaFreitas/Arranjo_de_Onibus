@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Arranjo de Onibus</string>
+    <string name="pas">PASSAGEIRO</string>
+    <string name="pol">POLTRONA</string>
+    <string name="pago">PAGO</string>
+    <string name="car">CARRO</string>
+    <string name="arquivar">guardar</string>
+    <string name="dados">DADOS</string>
+    <string name="conf">CONFIGURAÇÕES</string>
+    <string name="del">EXCLUIR</string>
+    <string name="id">ID</string>
+
+</resources>
